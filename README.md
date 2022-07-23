@@ -14,6 +14,7 @@ and many more
 ![App Screenshot](https://github.com/shabrina19/Gambar/blob/main/Covid%20Dashboard/Dashboard%201.png?raw=true)
 
 [Tableau visualization can be accessed here](https://public.tableau.com/views/CovidDeathsDashboard_16559129028910/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[SQL code can be accessed here](https://github.com/shabrina19/Covid-19-Data-Exploration-/blob/main/CovidGithub.sql)
 
 
 ## 💡 References
